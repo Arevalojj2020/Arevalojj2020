@@ -66,7 +66,10 @@
 
 
 ### Discord  
-- .juanarevalo  
+- .juanarevalo
+
+### Organicemos una reunión😄
+- calendly: https://calendly.com/juanjoarevalo57/entrevista-laboral?month=2023-06
   
 
 <img src="https://raw.githubusercontent.com/robiot/robiot/main/jump.gif" align="left" style="width: 100%" />  
