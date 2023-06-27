@@ -43,6 +43,7 @@
 <a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="50" /></a>  
 </div>
 
+</td></tr></table>  
 
 <br/>  
 
