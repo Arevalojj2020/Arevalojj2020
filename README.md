@@ -1,7 +1,7 @@
 # <div align="center">Bienvenido a mi Github 😎</div>  
   
 
-#### Mi nombre es Juan José Arévalo Camargo, analista y científico de datos👨‍💻🦾 Estudio Ingeniería Mecánica en la Universidad Nacional de Colombia y soy egresado de Henry en busca de nuevas oportunidades laborales🚀Además, invierto mi tiempo realizando proyectos que me ayuden a pulir mis aptitudes🤓.  
+#### Mi nombre es Juan José Arévalo Camargo, analista y científico de datos👨‍💻🦾 Estudio Ingeniería Mecánica en la Universidad Nacional de Colombia y soy egresado de Henry en busca de nuevas oportunidades laborales🚀Además, invierto mi tiempo realizando proyectos que me ayuden a pulir mis aptitudes🤓
   
 
 <div align="center">
@@ -24,7 +24,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Tecnologías 🖥️
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
@@ -43,16 +43,11 @@
 <a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
 
-## Connect with me  
+## Contacta conmigo! 📥  
 <div align="center">
 <a href="https://github.com/Arevalojj2020" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -84,22 +79,13 @@
 <br/>  
 
 
-## Github Stats  
+## Estado de Github 🗣️
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arevalojj2020&hide_border=true&layout=compact" align="left" />  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Arevalojj2020&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Arevalojj2020&&style=flat-square)  
   
