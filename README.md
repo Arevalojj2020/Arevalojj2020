@@ -1,7 +1,7 @@
-# <div align="center">Bienvenido a mi Github 😎</div>  
+# <div align="center">Welcome to my Github 😎</div>  
   
 
-#### Mi nombre es Juan José Arévalo Camargo, analista y científico de datos👨‍💻🦾 Estudio Ingeniería Mecánica en la Universidad Nacional de Colombia y soy egresado de Henry en busca de nuevas oportunidades laborales🚀Además, invierto mi tiempo realizando proyectos que me ayuden a pulir mis aptitudes🤓
+#### My name is Juan José Arévalo Camargo, a data analyst and scientist👨‍💻🦾 I am studying Mechanical Engineering at the National University of Colombia and I am a graduate of Henry, currently seeking new job opportunities🚀 Additionally, I invest my time in projects that help me refine my skills🤓
   
 
 <div align="center">
@@ -9,22 +9,20 @@
 </div>  
   
 
-- #### 🔭 Me desempeño en administrar datos y contar historias a partir de ellos  
+- #### 🔭 I specialize in managing data and telling stories based on them
   
 
-- #### 🌱 En este momento estoy perfeccionando mis habilidades de SQL y Cloud  
+- #### 🌱 At the moment, I am refining my SQL and Cloud skills
   
 
-- #### 🤝 Me fascina trabajar en equipo y conocer personas que estén igual de interesadas por la ciencia de datos como yo 😄  
-  
+- #### 🤝 I am passionate about working in teams and meeting people who are equally interested in data science like me 😄
 
-- #### ⚡ Procuro mantenerme en la búsqueda de nuevos conocimientos constantemente y disfrutar del enriquecedor proceso de crecimiento personal  
-  
+- #### ⚡ I strive to constantly seek new knowledge and enjoy the enriching process of personal growth
 
 <br/>  
 
 
-## Tecnologías 🖥️
+## Technologies 🖥️
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
@@ -43,33 +41,17 @@
 <br/>  
 
 
-## Contacta conmigo! 📥  
-<div align="center">
-<a href="https://github.com/Arevalojj2020" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in//juan-jos%C3%A9-ar%C3%A9valo-camargo-7671ab210" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/juanarvalo" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>  
-</div>  
+## Contact me! 📥  
+
+- ### LinkedIn: https://www.linkedin.com/in/juan-jos%C3%A9-ar%C3%A9valo-camargo/
+
+- ### Gmail: juanjoarevalo57@gmail.com
   
-
-
-
-### Gmail  
-- juanjoarevalo57@gmail.com  
+- ### Schedule a meeting🎯: https://calendly.com/juanjoarevalo57/entrevista-laboral?month=2023-06
   
+- ### Discord: .juanarevalo
 
-
-
-### Discord  
-- .juanarevalo
-
-### Organicemos una reunión😄
-- calendly: https://calendly.com/juanjoarevalo57/entrevista-laboral?month=2023-06
+- ### Kaggle: https://www.kaggle.com/juanarvalo
   
 
 <img src="https://raw.githubusercontent.com/robiot/robiot/main/jump.gif" align="left" style="width: 100%" />  
@@ -77,8 +59,9 @@
 
 <br/>  
 
+<br/>
 
-## Estado de Github 🗣️
+## Github Status 🗣️
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arevalojj2020&hide_border=true&layout=compact" align="left" />  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Arevalojj2020&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
