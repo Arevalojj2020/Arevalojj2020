@@ -46,6 +46,8 @@
 - ### LinkedIn: https://www.linkedin.com/in/juan-jos%C3%A9-ar%C3%A9valo-camargo/
 
 - ### Gmail: juanjoarevalo57@gmail.com
+
+- ### Portfolio: https://juanjoarevalo57.wixsite.com/juan-ar-valo
   
 - ### Schedule a meeting🎯: https://calendly.com/juanjoarevalo57/entrevista-laboral?month=2023-06
   
