@@ -1,7 +1,7 @@
 # <div align="center">Welcome to my Github 😎</div>  
   
 
-#### My name is Juan José Arévalo Camargo, a data analyst and scientist👨‍💻🦾 I am studying Mechanical Engineering at the National University of Colombia and I am a graduate of Henry, currently seeking new job opportunities🚀 Additionally, I invest my time in projects that help me refine my skills🤓
+#### My name is Juan José Arévalo Camargo, a data scientist and analyst👨‍💻🦾 I am studying Mechanical Engineering at the National University of Colombia and I am a graduate of Henry, currently seeking new job opportunities🚀 Additionally, I invest my time in projects that help me refine my skills🤓
   
 
 <div align="center">
