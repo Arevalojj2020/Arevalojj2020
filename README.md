@@ -43,17 +43,17 @@
 
 ## Contact me! 📥  
 
-- ### LinkedIn: https://www.linkedin.com/in/juan-jos%C3%A9-ar%C3%A9valo-camargo/
+- ### [LinkedIn](https://www.linkedin.com/in/juan-jos%C3%A9-ar%C3%A9valo-camargo/)
 
-- ### Gmail: juanjoarevalo57@gmail.com
+- ### [Gmail](juanjoarevalo57@gmail.com)
 
-- ### Portfolio: https://juanjoarevalo57.wixsite.com/juan-ar-valo
+- ### [Portfolio](https://juanjoarevalo57.wixsite.com/juan-ar-valo)
   
-- ### Schedule a meeting🎯: https://calendly.com/juanjoarevalo57/entrevista-laboral?month=2023-06
+- ### [Schedule a meeting🎯](https://calendly.com/juanjoarevalo57/entrevista-laboral?month=2023-06)
   
 - ### Discord: .juanarevalo
 
-- ### Kaggle: https://www.kaggle.com/juanarvalo
+- ### [Kaggle](https://www.kaggle.com/juanarvalo)
   
 
 <img src="https://raw.githubusercontent.com/robiot/robiot/main/jump.gif" align="left" style="width: 100%" />  
