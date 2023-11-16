@@ -1,7 +1,7 @@
 # <div align="center">Welcome to my Github 😎</div>  
   
 
-#### My name is Juan José Arévalo Camargo, a data scientist and analyst👨‍💻🦾 I am studying Mechanical Engineering at the National University of Colombia and I am a graduate of Henry, currently working as a BI Analyst at BRM S.A.S Additionally, I invest my time in projects that help me refine my skills🤓
+#### My name is Juan José Arévalo Camargo, a data scientist and analyst👨‍💻🦾 I am studying Mechanical Engineering at the National University of Colombia and I am a graduate of Henry, currently working as a BI Analyst at BRM S.A.S💻 Additionally, I invest my time in projects that help me refine my skills🤓
   
 
 <div align="center">
@@ -27,6 +27,7 @@
 
 <div align="center">  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" /></a>   
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="75" /> </a>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /></a>  
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="75" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="75" /></a>  
@@ -36,7 +37,6 @@
 </td></tr></table>  
 
 <br/>  
-
 
 ## Contact me! 📥  
 
@@ -59,6 +59,8 @@
 <br/>  
 
 <br/>
+
+<br/>  
 
 ## Github Status 🗣️
 
